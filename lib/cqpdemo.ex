@@ -7,7 +7,7 @@ defmodule Cqpdemo do
     # 选择开启的插件
     children = [
       {Cqpdemo.Cqpsdk, []},
-      # {Cqpdemo.Follow, []},
+      {Cqpdemo.Follow, []},
       # {Cqpdemo.Help, []},
       {Cqpdemo.Friend, []},
       {Cqpdemo.Learn, []},
