@@ -1,6 +1,6 @@
 # Cqpdemo
 
-基于酷q http api(https://github.com/richardchien/coolq-http-api)实现的elixir 酷q机器人
+基于酷q http api(https://github.com/richardchien/coolq-http-api) 实现的elixir 酷q机器人
 
 发送与接收的消息结构请参考http api
 
